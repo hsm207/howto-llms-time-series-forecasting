@@ -1,2 +1,5 @@
-# howto-llms-time-series-forecasting
-How to repurpose an LLM for time series forecasting
+# Introduction 
+
+Code to accompany my [How To Make LLMs Generate Time Series Forecasts Instead Of Texts](https://ai.gopubby.com/how-to-make-llms-generate-time-series-forecasts-instead-of-texts-random-digressions-1b2f6d501c8c) blog post on Medium
+
+
